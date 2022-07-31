@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<h1 align="center">Hi, I'm Mahdi<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <!--
 **debug-ing/debug-ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
