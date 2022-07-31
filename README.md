@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🔥 Streak stats
+
+<div align="center">
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=debug-ing&theme=dark" width="700"></img>
+
+</div>
