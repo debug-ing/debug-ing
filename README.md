@@ -6,11 +6,14 @@
 </p>
 
 ## Open-Source Projects
-- [Goober](https://github.com/debug-ing/goober)
-- [Validation-go library](https://github.com/debug-ing/validation-go)
-- [Zlang](https://github.com/debug-ing/zlang)
-- [SOCKS5 proxy server](https://github.com/debug-ing/socks5-go)
-- [Todo list](https://github.com/debug-ing/todo-list)
+- [Goober - Go](https://github.com/debug-ing/goober)
+- [Validation-go library - Go](https://github.com/debug-ing/validation-go)
+- [Zlang - Go](https://github.com/debug-ing/zlang)
+- [SOCKS5 proxy server - Go](https://github.com/debug-ing/socks5-go)
+- [Live radio streaming server - Go](https://github.com/debug-ing/radio-music)
+- [Library for run RTP Server - GO](https://github.com/debug-ing/rtp)
+- [Todo list - Rust](https://github.com/debug-ing/todo-list-rust) 
+- [Todo list - NestJS](https://github.com/debug-ing/todo-list)
 
 ### 🔥 Streak stats
 
