@@ -15,6 +15,9 @@
 - [Todo list - Rust](https://github.com/debug-ing/todo-list-rust) 
 - [Todo list - NestJS](https://github.com/debug-ing/todo-list)
 
+## Sample Projects
+- [Github action go version checker - Go](https://github.com/debug-ing/go-version-checker)
+
 ### 🔥 Streak stats
 
 <div align="center">
