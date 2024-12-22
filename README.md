@@ -13,6 +13,7 @@
 - [Live radio streaming server - Go](https://github.com/debug-ing/radio-music)
 - [Library for run RTP Server - Go](https://github.com/debug-ing/rtp)
 - [Github action go vulnerability scanner - Go](https://github.com/debug-ing/go-vuln-scanner)
+- [Codegate (pre-commit tools) - Go](https://github.com/debug-ing/codegate)
 - [Todo list - Rust](https://github.com/debug-ing/todo-list-rust) 
 - [Todo list - NestJS](https://github.com/debug-ing/todo-list)
 
