@@ -15,11 +15,11 @@
 - [Github action go vulnerability scanner - Go](https://github.com/debug-ing/go-vuln-scanner)
 - [Codegate (pre-commit tools) - Go](https://github.com/debug-ing/codegate)
 - [Library for sudoku(make,solve) - Go](https://github.com/debug-ing/sudokugo)
-- [Todo list - Rust](https://github.com/debug-ing/todo-list-rust) 
-- [Todo list - NestJS](https://github.com/debug-ing/todo-list)
 
 ## Sample Projects
 - [Github action go version checker - Go](https://github.com/debug-ing/go-version-checker)
+- [Todo list - Rust](https://github.com/debug-ing/todo-list-rust) 
+- [Todo list - NestJS](https://github.com/debug-ing/todo-list)
 
 ### 🔥 Streak stats
 
